@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.container ul li {
+  list-style: none;
+}
+
+.container img {
+  width: 130px;
+  height: 150px;
+}
